@@ -4,8 +4,8 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "microbit-pxt-blelog": "github:bsiever/microbit-pxt-blelog#v0.1.9",
-        "microbit-pxt-clicks": "github:bsiever/microbit-pxt-clicks#v0.2.2"
+        "microbit-pxt-clicks": "github:bsiever/microbit-pxt-clicks#v0.2.2",
+        "pxt-blelog": "github:bsiever/pxt-blelog#v0.1.13"
     },
     "files": [
         "main.blocks",
